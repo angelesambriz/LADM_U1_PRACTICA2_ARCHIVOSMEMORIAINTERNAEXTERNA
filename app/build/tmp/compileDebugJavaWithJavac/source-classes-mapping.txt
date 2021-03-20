@@ -1,0 +1,2 @@
+mx/tecnm/tepic/ladm_practica2_archivosmemoriainternayexterna/BuildConfig.java
+ mx.tecnm.tepic.ladm_practica2_archivosmemoriainternayexterna.BuildConfig

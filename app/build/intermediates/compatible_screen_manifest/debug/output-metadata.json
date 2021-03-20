@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "mx.tecnm.tepic.ladm_practica2_archivosmemoriainternayexterna",
+  "variantName": "debug",
+  "elements": []
+}
